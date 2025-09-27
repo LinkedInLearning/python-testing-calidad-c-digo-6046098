@@ -1,1 +1,5 @@
+coverage==7.10.6
+freezegun==1.5.5
+pytest==8.4.1
+pytest-mock==3.15.0
 requests>=2.28
